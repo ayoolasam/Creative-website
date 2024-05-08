@@ -55,9 +55,9 @@ const Creative = () => {
         </div>
         <div>
           <div class="Disco">
-            <h1>Discover What</h1>
-            <h1>
-              <span>CR8TIVES</span> Can Do!
+            <h1 style={{marginRight:"100px",width:"650px",}}>Discover What</h1>
+            <h1 style={{marginLeft:"100px"}}>
+              <span style={{marginRight:"30px"}}>CR8TIVES</span> Can Do!
             </h1>
           </div>
 
