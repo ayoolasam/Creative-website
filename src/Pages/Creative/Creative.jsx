@@ -40,14 +40,14 @@ const Creative = () => {
         </div>
         <Pictures />
         <div class="feint">
-          <p>
+          <p style={{marginLeft:"30px"}}>
             Discover The Stories within each portfolio, where creativity knows
             no bounds
           </p>
           <p>
             Explore A wide range of artistic expressions, from graphic design to
           </p>
-          <p>
+          <p style={{marginLeft:"30px"}}>
            
             photography, and be inspired by the diversity of our creative
             community
