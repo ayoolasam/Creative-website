@@ -48,7 +48,7 @@ const Creative = () => {
             Explore A wide range of artistic expressions, from graphic design to
           </p>
           <p>
-            {" "}
+           
             photography, and be inspired by the diversity of our creative
             community
           </p>

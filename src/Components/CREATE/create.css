@@ -40,3 +40,15 @@
 .CN{
   color:  rgba(0, 116, 228, 1);
 }
+
+
+@media only screen and (max-width:768px){
+.create{
+  gap:5px;
+  /* margin-bottom: 30px; */
+  width:1300px
+}
+.iphone{
+  margin-left: 50px;
+}
+}

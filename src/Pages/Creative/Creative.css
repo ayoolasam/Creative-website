@@ -128,5 +128,21 @@ margin: auto;
     position: relative;
   left:410px;}
   
+  .Writes{
+    margin-left: 300px;
+    width:600px;
+    /* display: flex; */
+  }
+  .feint{
+    margin-left: 300px;
+    width:600px;
   
+  }
+  .Disco{
+    margin-left: 300px;
+    width:600px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
 }
