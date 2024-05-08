@@ -1,0 +1,42 @@
+.create{
+  width:1229px;
+  margin: auto;
+  /* background-color: chocolate; */
+  height: 850px;
+  margin-top: 150px;
+  display:flex;
+  padding:20px;
+  justify-content: space-between;
+  
+}
+.contains{
+  flex:1;
+  margin-top: 30px;
+  font-family: 'poppins',sans-serif;
+  font-style: italic;
+  font-size: 24px;
+  font-weight: 400;
+}
+.iphone{
+  flex:1;
+  
+  display: flex;
+  align-content:end
+
+}
+.iphone img{
+  height:685px;
+  width:335px;
+
+
+  
+}
+.contains p{
+  color:  rgba(136, 136, 136, 1);
+}
+.contains h2{
+  font-size: 34px;
+}
+.CN{
+  color:  rgba(0, 116, 228, 1);
+}

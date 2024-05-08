@@ -1,0 +1,57 @@
+.butt{
+  background-color: 
+  rgba(0, 116, 228, 1);
+  width:150px;
+  height:38px;
+  padding:10px;
+  border-radius:20px;
+  border:none;
+  color:white;
+  outline: none;
+
+
+}
+.Nav{
+  display:flex;
+justify-content: space-between;
+  width:100%;
+  height:70px;
+  border-radius: 10px;
+
+
+  align-items: center;
+padding:0px 20px;
+position: sticky;
+top:0;
+background-color: white;
+/* border-bottom: 1px black solid; */
+box-shadow: 2px 11px 45px 0px rgba(0,0,0,0.75);;
+  
+
+}
+img{
+
+  width:250px;
+  height:60px;
+
+
+}
+.logosss{
+  margin-left: 700px;
+}
+@media  only  screen and (max-width:768px) {
+  
+.logosss{
+  margin-left: 400px;
+};
+.butt{
+color:red
+}
+.butty{
+  margin-left: 380px;
+}
+.Nav{
+  box-shadow: none;
+  position: relative;
+}
+}
